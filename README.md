@@ -1,5 +1,22 @@
 # StoreSampleApp
 
+A store simple store application that uses the basic functionalities of **Angular**.
+
+## What I Learned
+
+- **Angular** Components
+  - I used the `CLI` to generate components with the command: `ng generate`.
+- Passing data between components
+  - I used the `Input` and `Output` decorators to pass data between child and parent components.
+- The angular router
+  - I used the routing module to route between views of the application.
+- Angular Services
+  - In the command line, i generated the cart service that help manage the data.
+- HTTP CLIENT
+  - I used the `HttpClientModule` to simulate a get request to a json file
+- Angular forms
+  - I used the form builder to create a dynamic form for user input.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
 ## Development server
